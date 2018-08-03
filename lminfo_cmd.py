@@ -90,5 +90,3 @@ if __name__ == '__main__':
     myapp = App()
     myapp.main()
 
-
-SQOR-0004:lminfo jeremyyabrow$ 
